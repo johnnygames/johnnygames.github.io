@@ -47,3 +47,8 @@ header {
     @extend %padding-regular;
   }
 }
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
