@@ -1,5 +1,5 @@
 ---
-layout: First Post
+layout: post
 title: My First Post
 ---
 
